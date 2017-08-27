@@ -19,7 +19,7 @@ public class Main {
 
         Animal myAnimalTwo = new Dachshund("pompek");
 
-        (Dachshund)myAnimalTwo.
+       // (Dachshund)myAnimalTwo.jump;
 
     }
 }
